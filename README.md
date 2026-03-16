@@ -1,51 +1,51 @@
 # Ex. No.  - SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE
-### DATE: 
+### DATE: 12.03.2026
 
 ## AIM:
-### To simulate the construction of cartesian 3D printer and to get in-depth knowledge of mechatronics of cartesian 3D printers.
+To simulate the construction of cartesian 3D printer and to get in-depth knowledge of mechatronics of cartesian 3D printers.
 
 ![image](https://github.com/Sellakumar1987/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/113594316/69572917-1257-45d7-bf57-ff48a6e5a711)
 
 ## REQUIREMENTS:
-### ●	System - Windows 7 or higher, 1 GB RAM.
+●	System - Windows 7 or higher, 1 GB RAM.
 
 ## PROCEDURE:
-### For X-Axis Assembly
-###   1.	Select X-Axis Assembly from the visible list.
-###   2.	All the parts related to X-Axis will be shown on the screen.
-###   3.	Select the parts in sequence in which they are shown.
-###   4.	When the first part is selected then it will open in the blank space in the left side of the screen.
-###   5.	Further, when the correct part will be selected then it will get assembled with the previously selected part/parts.
-###   6.	If the user follows an incorrect sequence then a pop-up will appear on the screen showing the name of the part to be selected.
+## For X-Axis Assembly
+1.	Select X-Axis Assembly from the visible list.
+2.	All the parts related to X-Axis will be shown on the screen.
+3.	Select the parts in sequence in which they are shown.
+4.	When the first part is selected then it will open in the blank space in the left side of the screen.
+5.	Further, when the correct part will be selected then it will get assembled with the previously selected part/parts.
+6.	If the user follows an incorrect sequence then a pop-up will appear on the screen showing the name of the part to be selected.
 
 ## For Y-Axis Assembly
-###   1.	Select Y-Axis Assembly from the visible list.
-###   2.	All the parts related to Y-Axis will be shown on the screen.
-###   3.	Select the parts in sequence in which they are shown.
-###   4.	When the first part is selected then it will open in the blank space in the left side of the screen.
-###   5.	Further, when the correct part will be selected then it will get assembled with the previously selected part/parts.
-###   6.	If the user follows an incorrect sequence then a pop-up will appear on the screen showing the name of the part to be selected.
+1.	Select Y-Axis Assembly from the visible list.
+2.	All the parts related to Y-Axis will be shown on the screen.
+3.	Select the parts in sequence in which they are shown.
+4.	When the first part is selected then it will open in the blank space in the left side of the screen.
+5.	Further, when the correct part will be selected then it will get assembled with the previously selected part/parts.
+6.	If the user follows an incorrect sequence then a pop-up will appear on the screen showing the name of the part to be selected.
 
 ## For Z-Axis Assembly
-###   1.	Select Z-Axis Assembly from the visible list.
-###   2.	All the parts related to Z-Axis will be shown on the screen.
-###   3.	Select the parts in sequence in which they are shown.
-###   4.	When the first part is selected then it will open in the blank space in the left side of the screen.
-###   5.	Further, when the correct part will be selected then it will get assembled with the previously selected part/parts.
-###   6.	If the user follows an incorrect sequence then a pop-up will appear on the screen showing the name of the part to be selected.
+1.	Select Z-Axis Assembly from the visible list.
+2.	All the parts related to Z-Axis will be shown on the screen.
+3.	Select the parts in sequence in which they are shown.
+4.	When the first part is selected then it will open in the blank space in the left side of the screen.
+5.	Further, when the correct part will be selected then it will get assembled with the previously selected part/parts.
+6.	If the user follows an incorrect sequence then a pop-up will appear on the screen showing the name of the part to be selected.
 
 ## For Complete-Axis Assembly
-###   1.	Select Complete-Axis Assembly from the visible list.
-###   2.	All the parts related to Complete-Axis will be shown on the screen.
-###   3.	Select the parts in sequence in which they are shown.
-###   4.	When the first part is selected then it will open in the blank space in the left side of the screen.
-###   5.	Further, when the correct part will be selected then it will get assembled with the previously selected part/parts.
-###   6.	If the user follows an incorrect sequence then a pop-up will appear on the screen showing the name of the part to be selected.
+1.	Select Complete-Axis Assembly from the visible list.
+2.	All the parts related to Complete-Axis will be shown on the screen.
+3.	Select the parts in sequence in which they are shown.
+4.	When the first part is selected then it will open in the blank space in the left side of the screen.
+5.	Further, when the correct part will be selected then it will get assembled with the previously selected part/parts.
+6.	If the user follows an incorrect sequence then a pop-up will appear on the screen showing the name of the part to be selected.
 
 ## Playing with Axes
-###   1.	Move the x-axis slider or enter the value (within the given range) in the given text box and press/select ENTER. Now observe the movement of the x-axis assembly.
-###   2.	Move the y-axis slider or enter the value (within the given range) in the given text box and press/select ENTER. Now observe the movement of the y-axis assembly.
-###   3.	Move the z-axis slider or enter the value (within the given range) in the given text box and press/select ENTER. Now observe the movement of the z-axis assembly.
+1.	Move the x-axis slider or enter the value (within the given range) in the given text box and press/select ENTER. Now observe the movement of the x-axis assembly.
+2.	Move the y-axis slider or enter the value (within the given range) in the given text box and press/select ENTER. Now observe the movement of the y-axis assembly.
+3.	Move the z-axis slider or enter the value (within the given range) in the given text box and press/select ENTER. Now observe the movement of the z-axis assembly.
 
 ## OUTPUT
 ![image](https://github.com/Sellakumar1987/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/113594316/3b394ffa-4aea-4e56-a12b-eccab47afee5)
@@ -58,10 +58,20 @@
 
 ![image](https://github.com/Sellakumar1987/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/113594316/e00b82b4-9aff-400f-9c57-288254dc3cd2)
 
-## Output:
+## OUTPUT:
+<img width="1208" height="1412" alt="image" src="https://github.com/user-attachments/assets/f8fb965a-95b6-4696-a25d-0acdd93ca615" />
 
-### Name: 
-### Register Number:
+<img width="1356" height="1460" alt="image" src="https://github.com/user-attachments/assets/ef3d9ad3-3282-4944-913e-86997a8135b8" />
 
-## Result: 
-### Thus the simulation on construction of cartesian 3D printer is completed & movement of axis along X, Y, & Z has been studied.
+<img width="1330" height="853" alt="image" src="https://github.com/user-attachments/assets/beefdade-fa98-4a47-8a49-b011cb3776f6" />
+
+<img width="1140" height="1533" alt="image" src="https://github.com/user-attachments/assets/a2d3ffdd-e3a1-48ab-a24d-2136f8ab0385" />
+
+<img width="1084" height="864" alt="image" src="https://github.com/user-attachments/assets/85a33c74-2451-4528-9321-6fd168b87a79" />
+
+
+### NAME: ASIN BANU A
+### REGISTER NUMBER: 212225040035
+
+## RESULT: 
+Thus the simulation on construction of cartesian 3D printer is completed & movement of axis along X, Y, & Z has been studied.
