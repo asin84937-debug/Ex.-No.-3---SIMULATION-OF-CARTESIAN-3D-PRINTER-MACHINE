@@ -59,14 +59,6 @@ To simulate the construction of cartesian 3D printer and to get in-depth knowled
 ![image](https://github.com/Sellakumar1987/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/113594316/e00b82b4-9aff-400f-9c57-288254dc3cd2)
 
 ## OUTPUT:
-<img width="1208" height="1412" alt="image" src="https://github.com/user-attachments/assets/f8fb965a-95b6-4696-a25d-0acdd93ca615" />
-
-<img width="1356" height="1460" alt="image" src="https://github.com/user-attachments/assets/ef3d9ad3-3282-4944-913e-86997a8135b8" />
-
-<img width="1330" height="853" alt="image" src="https://github.com/user-attachments/assets/beefdade-fa98-4a47-8a49-b011cb3776f6" />
-
-<img width="1140" height="1533" alt="image" src="https://github.com/user-attachments/assets/a2d3ffdd-e3a1-48ab-a24d-2136f8ab0385" />
-
 <img width="1084" height="864" alt="image" src="https://github.com/user-attachments/assets/85a33c74-2451-4528-9321-6fd168b87a79" />
 
 
